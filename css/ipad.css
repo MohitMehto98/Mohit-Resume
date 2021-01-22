@@ -1,0 +1,110 @@
+/* for logo section */
+
+.mylogo {
+  height: 80vh;
+}
+
+.mylogo ul li a {
+  font-size: 2rem;
+}
+
+.home:active {
+  font-size: 2.5rem;
+}
+.work:active {
+  font-size: 2.5rem;
+}
+.resume:active {
+  font-size: 2.5rem;
+}
+.contacts:active {
+  font-size: 2.5rem;
+}
+
+/* for about me */
+
+.aboutme {
+  height: 80vh;
+}
+
+.aboutme p {
+  margin-top: 15rem;
+  font-size: 1.3rem;
+  line-height: 1.8rem;
+}
+
+/* for work section */
+
+.mywork h3 {
+  font-size: 2rem;
+  font-weight: bolder;
+}
+
+.mywork p {
+  font-size: 1.5rem;
+}
+
+.mywork img {
+  width: 30rem;
+}
+
+.images {
+  position: none;
+}
+
+.project {
+  margin-top: 5rem;
+  text-shadow: 0 0 5px white;
+}
+
+.awesome {
+  margin-top: 1rem;
+  color: white;
+  text-shadow: 0 0 5px red;
+}
+
+/* for resume section */
+
+.resumes table {
+  position: relative;
+  left: 1%;
+}
+
+.full {
+  margin-top: 5rem;
+}
+
+.full a {
+  text-align: center;
+}
+
+.full a:active {
+  color: orange;
+  background: black;
+}
+
+/* for swing section */
+
+.swing {
+  height: 60vh;
+}
+
+/* for contact section */
+
+.contact {
+  height: 60vh;
+}
+
+.contact-1 {
+  position: relative;
+  left: 30%;
+}
+
+.get {
+  position: relative;
+  left: 30%;
+}
+
+.btn {
+  margin: 2rem 0 0 20rem;
+}

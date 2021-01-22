@@ -1,14 +1,14 @@
 /* for logo section */
 
 .mylogo {
-  height: 70vh;
+  height: 80vh;
 }
 /* for about me section */
 .aboutme {
-  height: 70vh;
+  height: 80vh;
 }
 .aboutme p {
-  margin-top: 20rem;
+  margin-top: 10rem;
   line-height: 1.5rem;
   padding: 0.3rem;
 }
@@ -23,7 +23,7 @@
 }
 
 .mywork img {
-  width: 25rem;
+  width: 15rem;
 }
 
 .project {
@@ -41,28 +41,27 @@
 }
 
 .full {
-  margin-top: 10rem;
+  margin-top: 2rem;
 }
 
 .full a {
   text-decoration: none;
   color: white;
+  text-align: center;
 }
 
 /* for swing section */
 
 .swing {
-  height: 50vh;
+  height: 60vh;
 }
 
 /* for contact section */
 
 .contact {
-  height: 50vh;
+  height: 60vh;
 }
 
 .btn {
-  position: relative;
-  right: 20%;
-  /* margin: 2rem 0 0 0; */
+  margin: 1rem 0rem 0 1rem;
 }

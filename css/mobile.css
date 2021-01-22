@@ -51,6 +51,14 @@
   margin-left: 3rem;
 }
 
+.project {
+  text-shadow: 0 0 5px white;
+}
+
+.awesome {
+  color: white;
+  text-shadow: 0 0 5px black;
+}
 /* for resume section */
 .resumes {
   width: 100%;
@@ -68,12 +76,13 @@
 }
 
 .full {
-  margin: 5rem 0 1rem 7rem;
+  margin-top: 2rem;
 }
 
 .full a {
   text-decoration: none;
   color: white;
+  text-align: center;
 }
 
 .full:active {
