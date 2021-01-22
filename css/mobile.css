@@ -1,0 +1,121 @@
+/* for container */
+#container-1 {
+  display: block;
+}
+
+.home:active {
+  background: teal;
+}
+
+.work:active {
+  background: orange;
+}
+
+.resume:active {
+  background: rgb(9, 152, 235);
+}
+
+.contacts:active {
+  background: grey;
+}
+/*  for logo section*/
+
+.mylogo {
+  width: 100%;
+}
+
+/* for about me */
+
+.aboutme {
+  width: 100%;
+}
+
+.aboutme img {
+  width: 10rem;
+}
+
+/* for container */
+#container-2 {
+  display: block;
+}
+
+/* for my work section */
+.mywork {
+  width: 100%;
+  height: 170vh;
+}
+
+.images {
+  position: relative;
+  left: 0%;
+  margin-left: 3rem;
+}
+
+/* for resume section */
+.resumes {
+  width: 100%;
+  height: 120vh;
+}
+
+.resumes table {
+  position: relative;
+  left: 0%;
+}
+
+.resumes table tr th:first-child {
+  position: relative;
+  left: 5%;
+}
+
+.full {
+  margin: 5rem 0 1rem 7rem;
+}
+
+.full a {
+  text-decoration: none;
+  color: white;
+}
+
+.full:active {
+  background: white;
+  color: white;
+}
+
+.project {
+  margin-top: 5rem;
+}
+
+.resumes table td {
+  padding: 0.5rem 0rem 1rem 0rem;
+}
+
+/* for container 3 */
+#container-3 {
+  display: block;
+}
+
+/* for swing section */
+.swing {
+  width: 100%;
+}
+
+/* for contact section */
+.contact {
+  width: 100%;
+}
+
+.contact-1 {
+  position: relative;
+  left: 0%;
+  margin-left: 8rem;
+}
+
+.get {
+  position: relative;
+  left: 0%;
+  margin-left: 8rem;
+}
+
+.btn {
+  margin: 2rem 0rem 0 13rem;
+}
